@@ -3,10 +3,10 @@
 This directory contains the dotfiles for my system
 
 ## Links
-'''
+```
 https://www.gnu.org/software/stow/
 https://www.youtube.com/watch?v=y6XCebnB9gs
-'''
+```
 ## Requirements
 
 Ensure you have the following installed on your system
