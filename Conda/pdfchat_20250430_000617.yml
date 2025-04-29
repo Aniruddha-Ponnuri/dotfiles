@@ -1,0 +1,12 @@
+name: pdfchat
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - python-dotenv
+  - fastapi
+  - openai
+  - pypdf2
+  - python-multipart
+  - uvicorn
+prefix: C:\Users\Aniruddha\anaconda3\envs\pdfchat

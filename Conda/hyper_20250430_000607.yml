@@ -1,0 +1,12 @@
+name: hyper
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - dask
+  - distributed
+  - matplotlib
+  - pytorch-lightning
+  - seaborn
+  - torchvision
+prefix: C:\Users\Aniruddha\anaconda3\envs\hyper

@@ -1,0 +1,6 @@
+name: pdfbot
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\Aniruddha\anaconda3\envs\pdfbot

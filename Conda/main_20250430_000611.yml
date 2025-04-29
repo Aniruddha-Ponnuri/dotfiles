@@ -1,0 +1,24 @@
+name: main
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - tensorflow
+  - easyocr
+  - tqdm
+  - jupyter
+  - openpyxl
+  - statsmodels
+  - pandas-datareader
+  - cvxopt
+  - plotly
+  - wordcloud
+  - beautifulsoup4
+  - pytorch
+  - requests
+  - transformers
+prefix: C:\Users\Aniruddha\anaconda3\envs\main
